@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Server</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Hazel">
+        <HintPath>..\..\Hazel\Hazel-Networking-main\Hazel-Networking-main\Hazel\bin\Debug\net472\Hazel.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+      <PackageReference Include="NetCoreServer" Version="6.7.0" />
+    </ItemGroup>
+
+</Project>

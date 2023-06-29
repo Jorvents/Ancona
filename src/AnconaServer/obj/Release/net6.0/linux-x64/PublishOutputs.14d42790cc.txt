@@ -1,0 +1,2 @@
+C:\Users\Jorven\Desktop\Coder\C#\Ancona\src\AnconaServer\bin\Release\net6.0\linux-x64\publish\AnconaServer.pdb
+C:\Users\Jorven\Desktop\Coder\C#\Ancona\src\AnconaServer\bin\Release\net6.0\linux-x64\publish\AnconaServer

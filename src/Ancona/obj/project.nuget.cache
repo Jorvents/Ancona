@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTBHHEVP6jG81ftxylvJYEsSJIytWtMQzINexrGfgepwojBuhQCO3x3AJPPn9ZtbhUhxqnhhVCdJ6WMjShMA9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorven\\Desktop\\Coder\\C#\\Ancona\\src\\Ancona\\Ancona.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorven\\.nuget\\packages\\netcoreserver\\6.7.0\\netcoreserver.6.7.0.nupkg.sha512",
+    "C:\\Users\\Jorven\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\Jorven\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
